@@ -1,6 +1,7 @@
 # Task-For-Development
 
 1)Javascript concepts and all:-(Complete Cource)
+1.1) Javascript Practice Projects:  url(https://youtu.be/MIYQR-Ybrn4?si=i74K-EHlQ5WPhxWW)
 
 2)CSS:- CSS FLEXBOX:- https://www.youtube.com/watch?v=tXIhdp5R7sc 
 
