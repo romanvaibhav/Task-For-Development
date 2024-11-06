@@ -10,7 +10,7 @@
         
 2.1.1)CSS Media Queries:- (https:www.youtube.com/watch?v=aook54SsfhY)
 
-2.2) HTML & CSS Practice:- (https://youtu.be/9yLxmbICrTM?si=JzEuRjj5pEifKZ7g)
+2.2) HTML & CSS Practice:- (https://www.youtube.com/watch?v=yU_JgeAIRko&list=PLjwm_8O3suyOwElnplQ3quKEHsOuHyP9R)
         
         
 2.3)LocalStorage: (https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7)
