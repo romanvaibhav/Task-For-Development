@@ -1,5 +1,6 @@
 # Task-For-Development
 #<b>NOTE:-Link which are not working on click , Just copy the link and paste it on the search bar</b>
+<b>Do NOT try to undestand full concepts just complete it one by one </b>
 
 1)Javascript concepts and all:-(Complete Cource)
 
@@ -26,6 +27,7 @@
 
 4.2)Do React Project 2):-
 
+<b>NOTE:-Usedstand and remember the syntax from NODE.JS try to remeber it like how to render, API request,Connecting with database</b>
 5)Node.Js-Express-MongoDB:[https:youtu.be/ZQsrcayZcSk?si=hTksZVXEYLjOLCdG](https:youtu.be/ZQsrcayZcSk?si=hTksZVXEYLjOLCdG)
 
 5.1)Project 1):- (https://youtu.be/4WvX9dBjiJo?si=i8d0Wz6LqULaY7Ve)
