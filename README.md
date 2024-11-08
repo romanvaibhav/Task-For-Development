@@ -18,7 +18,7 @@
 2.3)LocalStorage: [https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7](https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7)
 
 3)Task-1):-Make TODO list project using HTML,CSS, and use localstorage to store data ,And use any ui template add functionalities like getting task from localstorage ,deleting task on button click and clearning all the localStorage Data.  (Push it on github and share me the link) 
-NOTE:-Refer this link to undestand:- [https://youtu.be/SeKQSQDUMDQ?si=cYcEHoICStXeiRDs](https://youtu.be/SeKQSQDUMDQ?si=cYcEHoICStXeiRDs)
+<b>NOTE:-Refer this link to undestand:- [https://youtu.be/SeKQSQDUMDQ?si=cYcEHoICStXeiRDs](https://youtu.be/SeKQSQDUMDQ?si=cYcEHoICStXeiRDs)</b>
 
 
 3.1)Task-2): Make Library Management project  (Push it on Github and share me the link)
