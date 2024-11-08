@@ -1,4 +1,5 @@
 # Task-For-Development
+#NOTE:-Link which are not working on click , Just copy the link and paste it on the search bar
 
 1)Javascript concepts and all:-(Complete Cource)
 
