@@ -6,7 +6,7 @@
 
 1.1) Javascript Practice Projects:  (https://youtu.be/MIYQR-Ybrn4?si=i74K-EHlQ5WPhxWW) Note:- Practice the project from this at least 2 in a week
 
-2)CSS FLEXBOX:- (https://www.youtube.com/watch?v=tXIhdp5R7sc) 
+2)CSS FLEXBOX:- (https://www.youtube.com/watch?v=tXIhdp5R7sc)     
 
 2.1.0)CSS Grid   :- (https://www.youtube.com/watch?v=t6CBKf8K_Ac)
         
@@ -35,3 +35,13 @@
 5.1)Project 1):- (https://youtu.be/4WvX9dBjiJo?si=i8d0Wz6LqULaY7Ve)
 
 5.2)Project 2):Comming Soon...
+
+<b>Time Management:-Days require to complete it</b>
+<b>[2, 2.1, 2.1.1, 1 practice Project] [1-day]</b><br>
+<b>[2.3, 3 ,1 js practice Project] [1-day]</b><br>
+<b>[4] [1 day (already done just revise all concepts its just a javascript)]</b><br>
+<b>[4.1, 5, 5.1] [6-days]</b><br>
+<b>Ready To Apply and Give Interviews</b><br>
+<b>Start with the basics of DSA<b/><br>
+
+
