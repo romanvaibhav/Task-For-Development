@@ -3,7 +3,7 @@
 
 1)Javascript concepts and all:-(Complete Cource)
 
-1.1) Javascript Practice Projects:  (https://youtu.be/MIYQR-Ybrn4?si=i74K-EHlQ5WPhxWW)
+1.1) Javascript Practice Projects:  (https://youtu.be/MIYQR-Ybrn4?si=i74K-EHlQ5WPhxWW) Note:- Practice the project from this at least 2 in a week
 
 2)CSS FLEXBOX:- (https://www.youtube.com/watch?v=tXIhdp5R7sc) 
 
@@ -11,7 +11,7 @@
         
 2.1.1)CSS Media Queries:- (https:www.youtube.com/watch?v=aook54SsfhY)
 
-2.2) HTML & CSS Practice:- (https://www.youtube.com/watch?v=yU_JgeAIRko&list=PLjwm_8O3suyOwElnplQ3quKEHsOuHyP9R)
+2.2) HTML & CSS Practice:- (https://www.youtube.com/watch?v=yU_JgeAIRko&list=PLjwm_8O3suyOwElnplQ3quKEHsOuHyP9R) Note:- Practice the project from this at least 2 in a week
         
         
 2.3)LocalStorage: [https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7](https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7)
