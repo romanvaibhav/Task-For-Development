@@ -29,7 +29,7 @@
 
 4.2)Do React Project 2):-
 
-<b>NOTE:-Usedstand and remember the syntax from NODE.JS try to remeber it like how to render, API request,Connecting with database</b>
+<b>NOTE:-Usedstand and remember the syntax from NODE.JS try to remeber it like how to render, API request,Connecting with database</b><br>
 5)Node.Js-Express-MongoDB:[https:youtu.be/ZQsrcayZcSk?si=hTksZVXEYLjOLCdG](https:youtu.be/ZQsrcayZcSk?si=hTksZVXEYLjOLCdG)
 
 5.1)Project 1):- (https://youtu.be/4WvX9dBjiJo?si=i8d0Wz6LqULaY7Ve)
