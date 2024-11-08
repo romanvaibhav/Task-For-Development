@@ -13,7 +13,7 @@
 2.2) HTML & CSS Practice:- (https://www.youtube.com/watch?v=yU_JgeAIRko&list=PLjwm_8O3suyOwElnplQ3quKEHsOuHyP9R)
         
         
-2.3)LocalStorage: (https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7)
+2.3)LocalStorage: [https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7](https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7)
 
 3)Task-1):-Make TODO list project using HTML,CSS, and use localstorage to store data ,And use any ui template add functionalities like getting task from localstorage ,deleting task on button click and clearning all the localStorage Data.  (Push it on github and share me the link)
 
