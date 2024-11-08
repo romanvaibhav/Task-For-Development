@@ -36,12 +36,12 @@
 
 5.2)Project 2):Comming Soon...
 
-<b>Time Management:-Days require to complete it</b>
-<b>[2, 2.1, 2.1.1, 1 practice Project] [1-day]</b><br>
-<b>[2.3, 3 ,1 js practice Project] [1-day]</b><br>
-<b>[4] [1 day (already done just revise all concepts its just a javascript)]</b><br>
-<b>[4.1, 5, 5.1] [6-days]</b><br>
-<b>Ready To Apply and Give Interviews</b><br>
-<b>Start with the basics of DSA<b/><br>
+<b>Time Management:-Days require to complete it</b><br>
+1)<b>[2, 2.1, 2.1.1, 1 practice Project] [1-day]</b><br>
+2)<b>[2.3, 3 ,1 js practice Project] [1-day]</b><br>
+3)<b>[4] [1 day (already done just revise all concepts its just a javascript)]</b><br>
+4)<b>[4.1, 5, 5.1] [6-days]</b><br>
+5)<b>Ready To Apply and Give Interviews</b><br>
+6)<b>Start with the basics of DSA<b/><br>
 
 
