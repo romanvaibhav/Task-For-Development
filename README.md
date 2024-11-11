@@ -22,9 +22,6 @@
 3)Task-1):-Make TODO list project using HTML,CSS, and use localstorage to store data ,And use any ui template add functionalities like getting task from localstorage ,deleting task on button click and clearning all the localStorage Data.  (Push it on github and share me the link) 
 <b>NOTE:-Refer this link to undestand:- [https://youtu.be/SeKQSQDUMDQ?si=cYcEHoICStXeiRDs](https://youtu.be/SeKQSQDUMDQ?si=cYcEHoICStXeiRDs)</b>
 
-
-3.1)Task-2): Make Library Management project  (Push it on Github and share me the link)
-
 4)React.Js:-[https:youtu.be/hn80mWvP-9g?si=Y1QjSKC34d4xbA5u](https:youtu.be/hn80mWvP-9g?si=Y1QjSKC34d4xbA5u)
 
 4.1)Do React Project 1):-
