@@ -7,7 +7,7 @@
 
 1)Javascript concepts and all:-(Complete Cource)
 
-1.1) Javascript Practice Projects:  (https://youtu.be/MIYQR-Ybrn4?si=i74K-EHlQ5WPhxWW) Note:- Practice the project from this at least 2 in a week
+1.1) Javascript Practice Projects:  (https://youtu.be/MIYQR-Ybrn4?si=i74K-EHlQ5WPhxWW) <br> Note:- Practice the project from this at least 2 in a week
 
 2)CSS FLEXBOX:- (https://www.youtube.com/watch?v=tXIhdp5R7sc)     
 
