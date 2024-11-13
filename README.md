@@ -43,16 +43,16 @@
 
 4)React.Js:-[https:youtu.be/hn80mWvP-9g?si=Y1QjSKC34d4xbA5u](https:youtu.be/hn80mWvP-9g?si=Y1QjSKC34d4xbA5u)
 
-4.1)Do React Project 1):-
+4.1)Do React Project 1):- [https://youtu.be/9wiWzu_tRB0?si=hlwsW6Y_6xErqyW7](https://youtu.be/9wiWzu_tRB0?si=hlwsW6Y_6xErqyW7)
 
-4.2)Do React Project 2):-
+4.2)Do React Project 2):- [https://youtu.be/jPo0mIcNZfM?si=S30UNRqmTBZ9151L](https://youtu.be/jPo0mIcNZfM?si=S30UNRqmTBZ9151L)
 
 <b>NOTE:-Undestand and remember the syntax from NODE.JS try to remeber it like how to render, API request,Connecting with database</b><br>
 5)Node.Js-Express-MongoDB:[https:youtu.be/ZQsrcayZcSk?si=hTksZVXEYLjOLCdG](https:youtu.be/ZQsrcayZcSk?si=hTksZVXEYLjOLCdG)
 
 5.1)Project 1):- (https://youtu.be/4WvX9dBjiJo?si=i8d0Wz6LqULaY7Ve)
 
-5.2)Project 2):Comming Soon...
+5.2)Project 2): 
 
 <b>Time Management:-Days require to complete it</b><br>
 1)<b>[2, 2.1, 2.1.1, 1 practice Project] [1-day]</b><br>
