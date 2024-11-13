@@ -1,23 +1,6 @@
 # Task-For-Development
 
-
-
-
-
-
-
 #NOTE OF THE DAY:- <strong>Upload all the certificated and achievements on LINKEDIN It is require for resume upload 1 certificate daily</strong>
-
-
-
-
-
-
-
-
-
-
-
 
 #<b>NOTE:-Link which are not working on click , Just copy the link and paste it on the search bar</b>
 <b>Do NOT try to undestand full concepts just complete it one by one </b>
@@ -32,7 +15,7 @@
         
 2.1.1)CSS Media Queries:- (https:www.youtube.com/watch?v=aook54SsfhY)
 
-2.2) HTML & CSS Practice:- (https://www.youtube.com/watch?v=yU_JgeAIRko&list=PLjwm_8O3suyOwElnplQ3quKEHsOuHyP9R) Note:- Practice the project from 2 Projectsper week
+2.2) HTML & CSS Practice:- (https://www.youtube.com/watch?v=yU_JgeAIRko&list=PLjwm_8O3suyOwElnplQ3quKEHsOuHyP9R) <br> Note:- Practice the project from 2 Projectsper week
             
 2.3)LocalStorage: [https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7](https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7)
 
