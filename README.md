@@ -1,6 +1,6 @@
 # Task-For-Development
 
-#NOTE OF THE DAY:- <strong>Upload all the certificated and achievements on LINKEDIN It is require for resume upload 1 certificate daily</strong> 
+#NOTE OF THE DAY:- <strong>Upload all the certificated and achievements on LINKEDIN It is require for resume upload 1 certificate daily</strong> <br>
 <em>#TASK OF THE DAY</em>
 
 #<b>NOTE:-Link which are not working on click , Just copy the link and paste it on the search bar</b>
