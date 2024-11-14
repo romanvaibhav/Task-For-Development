@@ -1,7 +1,10 @@
 # Task-For-Development
 
 #NOTE OF THE DAY:- <strong>Upload all the certificated and achievements on LINKEDIN It is require for resume upload 1 certificate daily</strong> <br>
-<b><em>#TASK OF THE DAY</em></b> :- <img></img>
+
+<b><em>1)#TASK OF THE DAY-14-11</em></b> :-<br> Bulid a web page like given below -1) Submit:- when i click on the submit button the message in the input box should be display on the screen <br>
+![Screenshot from 2024-11-14 13-57-07](https://github.com/user-attachments/assets/75901013-b8b1-4fa5-a790-7f26d808646d)
+
 
 #<b>NOTE:-Link which are not working on click , Just copy the link and paste it on the search bar</b>
 <b>Do NOT try to undestand full concepts just complete it one by one </b>
