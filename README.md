@@ -39,7 +39,7 @@
 5.2)Project 2): <br>
 
 
-<b><em>1)#TASK OF THE DAY-14-11</em></b> :-<br> Bulid a web page like given below -1) Submit:- when i click on the submit button the message in the input box should be display on the screen <br>
+<b><em>1)#TASK OF THE DAY-15-11</em></b> :-<br> Bulid a web page like given below -1) Submit:- when i click on the submit button the message in the input box should be display on the screen <br>
 ![Screenshot from 2024-11-14 13-57-07](https://github.com/user-attachments/assets/75901013-b8b1-4fa5-a790-7f26d808646d)<br>
 
 <b><em>1)#TASK OF THE DAY-14-11</em></b> :-<br> Bulid a web page like given below -1) Submit:- Its a registration form validation using javascript :- 1) When you click on the input box and do not type anyting in it then it should dsiply a message below the input box in screen that is (IT IS REQUIRED) dont use the required keyword in html do it using javascript<br>
