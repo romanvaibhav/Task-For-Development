@@ -45,7 +45,10 @@
 <b><em>2)#TASK OF THE DAY-14-11</em></b> :-<br> Bulid a web page like given below -1) RequireMents:- Its a registration form validation using javascript :- 1) When you click on the input box and do not type anyting in it then it should dsiply a message below the input box in screen that is (IT IS REQUIRED) dont use the required keyword in html do it using javascript<br>
 ![Screenshot from 2024-11-15 11-47-36](https://github.com/user-attachments/assets/e95a8001-bf97-41a7-9163-e6afe1c3c1f0)<br>
 
-<b><em>2)#TASK OF THE DAY-14-11</em></b> :-<br>Guess The Number Game -1)RequireMents:- 1) You have to generate a randoem number between 1-100 store that number in variable 2)You have to create input box in html which will get number as input  3)if the number entered in input box is == to the random number generated then display You Won 4)If the number entered is greter than the random number display "Number is greter please enter smaller number" similar for the smaller number<br>
+<b><em>3)#TASK OF THE DAY-14-11</em></b> :-<br>Guess The Number Game -1)RequireMents:- 1) You have to generate a randoem number between 1-100 store that number in variable 2)You have to create input box in html which will get number as input  3)if the number entered in input box is == to the random number generated then display You Won 4)If the number entered is greter than the random number display "Number is greter please enter smaller number" similar for the smaller number<br>
+<b>DO NOT USE YOUTUBE TRY ON OWN</b><br>
+![Screenshot from 2024-11-15 14-28-49](https://github.com/user-attachments/assets/80a704c5-fc3f-436c-be63-4b9852f30fe2)
+
 <br>
 
 
