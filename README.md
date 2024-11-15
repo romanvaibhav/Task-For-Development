@@ -39,11 +39,14 @@
 5.2)Project 2): <br>
 
 
-<b><em>1)#TASK OF THE DAY-15-11</em></b> :-<br> Bulid a web page like given below -1) Submit:- when i click on the submit button the message in the input box should be display on the screen <br>
+<b><em>1)#TASK OF THE DAY-15-11</em></b> :-<br> Bulid a web page like given below -1) RequireMents:-when i click on the submit button the message in the input box should be display on the screen <br>
 ![Screenshot from 2024-11-14 13-57-07](https://github.com/user-attachments/assets/75901013-b8b1-4fa5-a790-7f26d808646d)<br>
 
-<b><em>1)#TASK OF THE DAY-14-11</em></b> :-<br> Bulid a web page like given below -1) Submit:- Its a registration form validation using javascript :- 1) When you click on the input box and do not type anyting in it then it should dsiply a message below the input box in screen that is (IT IS REQUIRED) dont use the required keyword in html do it using javascript<br>
-![Screenshot from 2024-11-15 11-47-36](https://github.com/user-attachments/assets/e95a8001-bf97-41a7-9163-e6afe1c3c1f0)
+<b><em>2)#TASK OF THE DAY-14-11</em></b> :-<br> Bulid a web page like given below -1) RequireMents:- Its a registration form validation using javascript :- 1) When you click on the input box and do not type anyting in it then it should dsiply a message below the input box in screen that is (IT IS REQUIRED) dont use the required keyword in html do it using javascript<br>
+![Screenshot from 2024-11-15 11-47-36](https://github.com/user-attachments/assets/e95a8001-bf97-41a7-9163-e6afe1c3c1f0)<br>
+
+<b><em>2)#TASK OF THE DAY-14-11</em></b> :-<br>Guess The Number Game -1)RequireMents:- 1) You have to generate a randoem number between 1-100 store that number in variable 2)You have to create input box in html which will get number as input  3)if the number entered in input box is == to the random number generated then display You Won 4)If the number entered is greter than the random number display "Number is greter please enter smaller number" similar for the smaller number<br>
+<br>
 
 
 
