@@ -112,6 +112,7 @@ HTML:->
 
 
 CSS:-
+<div>
 .main{
     width: 100%;
     min-height: 97vh;
@@ -183,8 +184,8 @@ input{
 .grecaptcha-badge {
     visibility: hidden !important;  /* Hides the reCAPTCHA badge */
   }
+</div>
 
-<b>End</b>
 
 
 
