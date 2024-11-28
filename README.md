@@ -56,6 +56,60 @@ Usestate array wtach hot add seach it on google and print the array   3)Watch us
 <br>
 
 
+<b>Here is the code</b>
+
+<form class="formTag" validate [formGroup]="loginPage"  autocomplete="on">
+    <div class="main">
+        <div class="container">
+
+        <div class="heading">
+            <h2>Login to your account</h2>
+        </div>
+        <div class="email">
+            <label for="email" placeholer="Enter your email">Email</label><br>
+            <input autocomplete="email" name="email" formControlName="email" type="email" required>
+        </div>
+        <div class="Dcolor">
+            @if(loginPage.controls['email'].touched && loginPage.controls['email'].errors?.['required']){
+                <span>This is required</span>
+            }
+        </div>
+        <div class="password">
+            <label for="password">Password</label><br>
+            <input autocomplete="current-password" name="password" formControlName="password" type="password" required minlength="3">
+        </div>
+        <div class="Dcolor">
+            @if(loginPage.controls['password'].touched && loginPage.controls['password'].errors?.['required']){
+                <span>This is required</span>
+            }
+            @else if(loginPage.controls['password'].errors?.['minlength']){
+                <span>Min 6 chared required</span>
+            }
+        </div>
+        <div>
+            <a (click)="OpenForgetPass()">Forget Password</a>
+        </div>
+
+        <div class="btn">
+            <button class="login-btn" (click)="login()">Login</button>
+        </div>
+        <div class="registration">
+            <a class="regi"  (click)="regi()">Register</a>
+        </div>
+        </div>
+        <div id="google-signin-button"></div>
+    </div>
+</form>
+
+<div *ngIf="isOpenForgtePass">
+    <label for="email">Enter Email:</label>
+    <input [(ngModel)]="ForgetEmail" type="text" >
+    <button (click)="handleForgetPassword()">Submit</button>
+</div>
+
+
+
+<b>End</b>
 
 
 
