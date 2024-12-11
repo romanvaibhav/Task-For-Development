@@ -32,7 +32,7 @@
 4.2)Do React Project 2):- [https://youtu.be/jPo0mIcNZfM?si=S30UNRqmTBZ9151L](https://youtu.be/jPo0mIcNZfM?si=S30UNRqmTBZ9151L)
 
 <b>NOTE:-Undestand and remember the syntax from NODE.JS try to remeber it like how to render, API request,Connecting with database</b><br>
-5.0)MongoDB: [https://youtu.be/c2M-rlkkT5o?si=UHUTt71iixkpN3Al] (https://youtu.be/c2M-rlkkT5o?si=UHUTt71iixkpN3Al)
+5.0)MongoDB:  (https://youtu.be/c2M-rlkkT5o?si=UHUTt71iixkpN3Al) <br>
 5)Node.Js-Express-MongoDB:[https:youtu.be/ZQsrcayZcSk?si=hTksZVXEYLjOLCdG](https:youtu.be/ZQsrcayZcSk?si=hTksZVXEYLjOLCdG)
 
 5.1)Project 1):- (https://youtu.be/4WvX9dBjiJo?si=i8d0Wz6LqULaY7Ve)
