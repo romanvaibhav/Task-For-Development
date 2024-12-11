@@ -32,6 +32,7 @@
 4.2)Do React Project 2):- [https://youtu.be/jPo0mIcNZfM?si=S30UNRqmTBZ9151L](https://youtu.be/jPo0mIcNZfM?si=S30UNRqmTBZ9151L)
 
 <b>NOTE:-Undestand and remember the syntax from NODE.JS try to remeber it like how to render, API request,Connecting with database</b><br>
+5.0)MongoDB: [https://youtu.be/c2M-rlkkT5o?si=UHUTt71iixkpN3Al] (https://youtu.be/c2M-rlkkT5o?si=UHUTt71iixkpN3Al)
 5)Node.Js-Express-MongoDB:[https:youtu.be/ZQsrcayZcSk?si=hTksZVXEYLjOLCdG](https:youtu.be/ZQsrcayZcSk?si=hTksZVXEYLjOLCdG)
 
 5.1)Project 1):- (https://youtu.be/4WvX9dBjiJo?si=i8d0Wz6LqULaY7Ve)
@@ -54,139 +55,6 @@
 <b><em>4)#TASK OF THE DAY-19-11-24</em></b> :-<br>React Concepts:-  1) crete a component and function inside component which will print some  text when Clicked   2)Watch UseState hook video  :- crete input and also add button when you clicked on it the text should be added in the
 Usestate array wtach hot add seach it on google and print the array   3)Watch useEffect :-</b><br>
 <br>
-
-
-<b>Here is the code</b>
-
-HTML:->
-
-<form class="formTag" validate [formGroup]="loginPage"  autocomplete="on">
-    <div class="main">
-        <div class="container">
-
-        <div class="heading">
-            <h2>Login to your account</h2>
-        </div>
-        <div class="email">
-            <label for="email" placeholer="Enter your email">Email</label><br>
-            <input autocomplete="email" name="email" formControlName="email" type="email" required>
-        </div>
-        <div class="Dcolor">
-            @if(loginPage.controls['email'].touched && loginPage.controls['email'].errors?.['required']){
-                <span>This is required</span>
-            }
-        </div>
-        <div class="password">
-            <label for="password">Password</label><br>
-            <input autocomplete="current-password" name="password" formControlName="password" type="password" required minlength="3">
-        </div>
-        <div class="Dcolor">
-            @if(loginPage.controls['password'].touched && loginPage.controls['password'].errors?.['required']){
-                <span>This is required</span>
-            }
-            @else if(loginPage.controls['password'].errors?.['minlength']){
-                <span>Min 6 chared required</span>
-            }
-        </div>
-        <div>
-            <a (click)="OpenForgetPass()">Forget Password</a>
-        </div>
-
-        <div class="btn">
-            <button class="login-btn" (click)="login()">Login</button>
-        </div>
-        <div class="registration">
-            <a class="regi"  (click)="regi()">Register</a>
-        </div>
-        </div>
-        <div id="google-signin-button"></div>
-    </div>
-</form>
-
-<div *ngIf="isOpenForgtePass">
-    <label for="email">Enter Email:</label>
-    <input [(ngModel)]="ForgetEmail" type="text" >
-    <button (click)="handleForgetPassword()">Submit</button>
-</div>
-
-
-
-CSS:-
-<div>
-.main{
-    width: 100%;
-    min-height: 97vh;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.container{
-    background-color: rgb(0, 0, 0);
-    height: 55vh;
-    width: 23%;
-    display: flex;
-    flex-direction: column;
-    border-radius: 15px;
-    justify-content: center;
-    align-items: center;
-    /* padding-left: 10px; */
-}
-.heading{
-    font-weight: bold;
-    color: white;
-}
-.email{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: hsl(202, 70%, 51%);
-}
-.password{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: hsl(202, 70%, 51%);
-}
-.btn{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: white;
-    /* background-color: hsl(202, 70%, 51%) ; */
-}
-.login-btn{
-    background-color: hsl(202, 70%, 51%) ;
-    width: 237px;
-    height: 35px;
-    color: rgb(255, 255, 255);
-    font-weight: bold;
-    border: none;
-    border-radius: 3px;
-}
-.registration{
-    padding-top: 10px;
-    padding-bottom: 15px;
-}
-.regi{
-    color: hsl(202, 70%, 51%);
-    text-decoration: none;
-}
-input{
-    width: 230px;
-    height: 30px;
-    border-radius: 3px;
-    border: none;
-}
-.Dcolor{
-    color: red;
-    margin-left: -140px;
-    font-size: 13px;
-}
-.grecaptcha-badge {
-    visibility: hidden !important;  /* Hides the reCAPTCHA badge */
-  }
-</div>
-
-
 
 
     
