@@ -18,7 +18,7 @@
 
 2.2) HTML & CSS Practice:- (https://www.youtube.com/watch?v=yU_JgeAIRko&list=PLjwm_8O3suyOwElnplQ3quKEHsOuHyP9R) <br> Note:- Practice the project from 2 Projectsper week
             
-2.3)LocalStorage: [https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7](https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7)
+2.3)LocalStorage:(https:youtu.be/-ZRDZyUjEEI?si=HgcQ-ssG_L9OxPA7) <br>
 
 2.4)Git & GitHub: [https://youtu.be/apGV9Kg7ics?si=TgzOd3aDdF0MB5qt] (https://youtu.be/apGV9Kg7ics?si=TgzOd3aDdF0MB5qt) (Note: Steps:- Undestand write or remeber following concepts 1)How to Ulpoad project to github 2)How to Clone Repository 3)How to merge project to the same repository 4)how to create pull request )<br> <b>Upload All the project on Github and send me the link </b>
 
