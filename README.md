@@ -41,7 +41,10 @@
 
 
 6)Angular Major Projects:-
-https://youtu.be/ryQHyOzQ9fA?si=fjO3nGYmNyziesph
+1)E-Learning Angular:- https://youtu.be/WFTZF-jDwvQ?si=-Hw93Z2I0-MS2DLO
+2)E-commerce Angular-Springboot:- https://youtu.be/ryQHyOzQ9fA?si=fjO3nGYmNyziesph
+3)Food-app React: -
+4)Hotel-Management React Springboot:- 
 
 
 <b><em>1)#TASK OF THE DAY-15-11</em></b> :-<br> Bulid a web page like given below -1) RequireMents:-when i click on the submit button the message in the input box should be display on the screen <br>
