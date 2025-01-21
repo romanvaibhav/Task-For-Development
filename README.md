@@ -40,6 +40,10 @@
 5.2)Project 2): <br>
 
 
+6)Angular Major Projects:-
+https://youtu.be/ryQHyOzQ9fA?si=fjO3nGYmNyziesph
+
+
 <b><em>1)#TASK OF THE DAY-15-11</em></b> :-<br> Bulid a web page like given below -1) RequireMents:-when i click on the submit button the message in the input box should be display on the screen <br>
 ![Screenshot from 2024-11-14 13-57-07](https://github.com/user-attachments/assets/75901013-b8b1-4fa5-a790-7f26d808646d)<br>
 
