@@ -1,4 +1,14 @@
 # Task-For-Development
+1) Daily Task: (28-2-2024):-  ([https://www.youtube.com/watch?v=ZzmiJsD6HIo&list=PLFmBehh3Qjxr5_cwDBybRyjt-0E0fObgM&index=2&ab_channel=SmallTownCoder](https://www.youtube.com/watch?v=oH9DWKMM0Os&list=PLFmBehh3Qjxr5_cwDBybRyjt-0E0fObgM&ab_channel=SmallTownCoder)) 
+<br>
+Watch 1st 3 videos from above link
+Note:- Send Me Dry run cod ePhotos also
+2)DO DSA 3 quetions:-
+1)  https://docs.google.com/document/d/1jwhMD49HKTBz0uwtBfMjdf_JiDdYAcfr-xQLWtH9oYs/edit?tab=t.0
+2)  Note:-- Send me the dry run code photos also
+
+3) Search Links and apply
+
 
 #<b>NOTE:-Link which are not working on click , Just copy the link and paste it on the search bar</b><br>
 
