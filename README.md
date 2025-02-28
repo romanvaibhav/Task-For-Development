@@ -1,6 +1,5 @@
 # Task-For-Development
-1) Daily Task: (28-2-2024):-  ([https://www.youtube.com/watch?v=ZzmiJsD6HIo&list=PLFmBehh3Qjxr5_cwDBybRyjt-0E0fObgM&index=2&ab_channel=SmallTownCoder](https://www.youtube.com/watch?v=oH9DWKMM0Os&list=PLFmBehh3Qjxr5_cwDBybRyjt-0E0fObgM&ab_channel=SmallTownCoder)) 
-<br>
+1) Daily Task: (28-2-2024):-  ([https://www.youtube.com/watch?v=ZzmiJsD6HIo&list=PLFmBehh3Qjxr5_cwDBybRyjt-0E0fObgM&index=2&ab_channel=SmallTownCoder](https://www.youtube.com/watch?v=oH9DWKMM0Os&list=PLFmBehh3Qjxr5_cwDBybRyjt-0E0fObgM&ab_channel=SmallTownCoder)) <br>
 Watch 1st 3 videos from above link <br>
 Note:- Send Me Dry run cod ePhotos also <br>
 2)DO DSA 3 quetions:-<br>
@@ -9,7 +8,19 @@ Note:- Send Me Dry run cod ePhotos also <br>
 
 3) Search Links and apply<br>
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 #<b>NOTE:-Link which are not working on click , Just copy the link and paste it on the search bar</b><br>
 
 #NOTE OF THE DAY:- <strong>Upload all the certificated and achievements on LINKEDIN It is require for resume upload 1 certificate daily</strong> <br>
